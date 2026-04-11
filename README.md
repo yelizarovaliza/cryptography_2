@@ -93,3 +93,9 @@ Notes:
   Прискорення (opt/base)                1.1x             1.6x
 
 ```
+
+### Для Autogess
+
+```
+autoguess --inputfile strumok512_autoguess.txt --solver cp
+```
